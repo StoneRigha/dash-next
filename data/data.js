@@ -29,7 +29,7 @@ export const data = [
         },
         total: 3565.50,
         status: 'Completed',
-        method: 'PayPal',
+        method: 'Visa',
         date: '30 Minutes ago'
     },
     {
@@ -39,8 +39,8 @@ export const data = [
             last: 'Samba'
         },
         total: 10500.00,
-        status: 'On Hold',
-        method: 'PayPal',
+        status: 'Processing',
+        method: 'MasterCard',
         date: '50 Minutes ago'
     },
     {
@@ -61,8 +61,8 @@ export const data = [
             last: 'Mwarabu'
         },
         total: 30000.00,
-        status: 'On Hold',
-        method: 'PayPal',
+        status: 'Processing',
+        method: 'Check',
         date: '5 Hours ago'
     },
     {
@@ -72,7 +72,7 @@ export const data = [
             last: 'Thomas'
         },
         total: 659.45,
-        status: 'On Hold',
+        status: 'Completed',
         method: 'MasterCard',
         date: '3 Hours ago'
     },
@@ -102,11 +102,11 @@ export const data = [
         id: 10,
         name: {
             first: 'Alice',
-            last: 'Mwangombe'
+            last: 'Carter'
         },
         total: 4678.45,
-        status: 'On Hold',
-        method: 'PayPal',
+        status: 'Processing',
+        method: 'MasterCard',
         date: '15 Minutes ago'
     },
 
